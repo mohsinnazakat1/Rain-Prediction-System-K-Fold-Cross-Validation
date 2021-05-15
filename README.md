@@ -1,5 +1,5 @@
 <h1 align="center">Rain-Prediction-System</h1>
-This repo contains a rain prediction system which has been build using Scikit-learn. <br> <br>
+<p align="center"> This repo contains a rain prediction system which has been build using Scikit-learn.</p> <br> <br>
 
 <a href="#">
   <div align="center">
