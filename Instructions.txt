@@ -1,0 +1,1 @@
+If you want to run ipynb file place file of sample-data.csv from data folder in this folder.
