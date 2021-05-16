@@ -13,7 +13,7 @@ I have drived a sample dataset from the <a href="https://www.kaggle.com/jsphyg/w
 
 ## Spliting Techniques
 
-I have used 3-Flod Cross Validation here and got three trained model in the end. The Evaluation Measure I used is Accuracy and the model with highest accuracy will be good to go to application phase.
+I have used 3-Fold Cross Validation here and got three trained model in the end. The Evaluation Measure I used is Accuracy and the model with highest accuracy will be good to go to application phase.
 
 ## Libararies
 
