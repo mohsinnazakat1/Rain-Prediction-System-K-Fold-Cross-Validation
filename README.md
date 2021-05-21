@@ -37,6 +37,10 @@ It's a simple ipynb file which you can either run in Jupyter notebook or in Goog
 
 I have added 2 pdf files in this repo which contains in detail explanation of the code and the whole Machine Learning Cycle which I have followed in creating this project
 
+## Credit
+
+A big credit goes to Dr. Rao Muhammad Adeel Nawab and his students. They paved a way for us to completed this project. They have written many amazing books which are based on a unique self learning methodology. You can find the best books and projects on <a href="https://www.ilmoirfan.com">ilm-o-irfan.com </a> about Machine Learning, Data Science and many other fields.
+
 ---
 
 ## Author
